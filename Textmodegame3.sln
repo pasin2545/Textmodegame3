@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Textmodegame3", "Textmodegame3\Textmodegame3.vcxproj", "{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Debug|x64.ActiveCfg = Debug|x64
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Debug|x64.Build.0 = Debug|x64
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Debug|x86.ActiveCfg = Debug|Win32
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Debug|x86.Build.0 = Debug|Win32
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Release|x64.ActiveCfg = Release|x64
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Release|x64.Build.0 = Release|x64
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Release|x86.ActiveCfg = Release|Win32
+		{54BB1D2A-B68D-4C3C-B6D9-9A7B164F8F35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A43DD5C-9D34-49B2-A418-6878186ED6E4}
+	EndGlobalSection
+EndGlobal
